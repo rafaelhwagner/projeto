@@ -11,7 +11,7 @@ function toggleMode() {
     //se tiver light mode, adicionar img light
     img.setAttribute("src", "./Assets/mosh.png")
   } else {
-    img.setAttribute("src", "./Assets/wig.png")
+    img.setAttribute("src", "./Assets/avatarwig.png")
     //se tiver sem light mode, manter a img normal
   }
 }
